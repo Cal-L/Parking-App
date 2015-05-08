@@ -1,0 +1,1 @@
+Designed with the purpose of optimizing tourist expenses and time, this app allows users to find the closest parking structures and provides directions and prices as well.
